@@ -24,11 +24,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![](https://i.imgur.com/W9UGxAv.gif)
+
 There is an issue with accessing the twitter API today - 
 ![image](https://user-images.githubusercontent.com/42985995/135927179-17fafdff-3af6-488c-8de5-27976e7d0fd1.png)
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/42985995/136038278-99a55ba2-f293-484a-9a18-2d24547c3921.gif)
 
 
 ## User Stories
